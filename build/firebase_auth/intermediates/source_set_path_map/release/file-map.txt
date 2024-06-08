@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-0 /Users/rahulmachhi/.gradle/caches/transforms-3/05e083a15132ae381797b3b66f113853/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-1 /Users/rahulmachhi/.gradle/caches/transforms-3/223540e03d02938c4ae6a441ede63b07/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.3-2 /Users/rahulmachhi/.gradle/caches/transforms-3/393a7027f3b36a4c66f38e33db318749/transformed/jetified-firebase-common-20.4.3/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.3.0-3 /Users/rahulmachhi/.gradle/caches/transforms-3/54ed7ff33c343a0000a3e74187bca971/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-4 /Users/rahulmachhi/.gradle/caches/transforms-3/ce8a2a12a9378d2dca42422d5668f67d/transformed/browser-1.4.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-5 /Users/rahulmachhi/.gradle/caches/transforms-3/e8f33d10409769f88461253afb07076b/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-6 /Users/rahulmachhi/.gradle/caches/transforms-3/f9d758ccbc720f0ffc209ef13820c5cb/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-7 /Users/rahulmachhi/.gradle/caches/transforms-3/fe389b3d9224cb2ebd2ae53a0d79d2a1/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/firebase_auth-4.19.2/android/src/main/res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/firebase_auth-4.19.2/android/src/release/res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/generated/res/pngs/release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/generated/res/resValues/release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/generated/res/rs/release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/merged_res/release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/packaged_res/release

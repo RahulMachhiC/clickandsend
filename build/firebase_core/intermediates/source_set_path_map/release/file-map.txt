@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-0 /Users/rahulmachhi/.gradle/caches/transforms-3/05e083a15132ae381797b3b66f113853/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 /Users/rahulmachhi/.gradle/caches/transforms-3/223540e03d02938c4ae6a441ede63b07/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.3-2 /Users/rahulmachhi/.gradle/caches/transforms-3/393a7027f3b36a4c66f38e33db318749/transformed/jetified-firebase-common-20.4.3/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-3 /Users/rahulmachhi/.gradle/caches/transforms-3/54ed7ff33c343a0000a3e74187bca971/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 /Users/rahulmachhi/.gradle/caches/transforms-3/e8f33d10409769f88461253afb07076b/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-5 /Users/rahulmachhi/.gradle/caches/transforms-3/fe389b3d9224cb2ebd2ae53a0d79d2a1/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/firebase_core-2.30.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/firebase_core-2.30.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/merged_res/release
