@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/rahulmachhi/projects/clickandsend/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/rahulmachhi/projects/clickandsend/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:firebase_auth::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/.transforms/bbde207a9c83637442156816793077de/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/.transforms/bbde207a9c83637442156816793077de/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:firebase_auth::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/firebase_auth/.transforms/aa3ea25416459de595276799d5bea615/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/firebase_auth/.transforms/aa3ea25416459de595276799d5bea615/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebase.auth:firebase_auth:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/.transforms/bbde207a9c83637442156816793077de/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/firebase_auth/.transforms/aa3ea25416459de595276799d5bea615/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:firebase_messaging::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/.transforms/677b36438e898b625893fbcff4487ee6/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/.transforms/677b36438e898b625893fbcff4487ee6/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:firebase_messaging::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/.transforms/a3e4fdc95095578036874ea1c48d60be/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/.transforms/a3e4fdc95095578036874ea1c48d60be/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebasemessaging:firebase_messaging:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/.transforms/677b36438e898b625893fbcff4487ee6/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/.transforms/a3e4fdc95095578036874ea1c48d60be/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:firebase_core::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/.transforms/fe73b852fc2314d3f92c5f74037db901/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/.transforms/fe73b852fc2314d3f92c5f74037db901/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:firebase_core::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/firebase_core/.transforms/8ff6fe2695004ccb38a5daf5ac546fa7/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/firebase_core/.transforms/8ff6fe2695004ccb38a5daf5ac546fa7/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebase.core:firebase_core:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/.transforms/fe73b852fc2314d3f92c5f74037db901/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/firebase_core/.transforms/8ff6fe2695004ccb38a5daf5ac546fa7/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,10 +43,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:geolocator_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/.transforms/fa89066a47c331627269792ac9660ddf/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/.transforms/fa89066a47c331627269792ac9660ddf/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:geolocator_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/geolocator_android/.transforms/6a6098806c98e1acbe18d4af6379b047/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/geolocator_android/.transforms/6a6098806c98e1acbe18d4af6379b047/transformed/out/jars/libs/R.jar"
       resolved="com.baseflow.geolocator:geolocator_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/.transforms/fa89066a47c331627269792ac9660ddf/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/geolocator_android/.transforms/6a6098806c98e1acbe18d4af6379b047/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -56,10 +56,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:flutter_plugin_android_lifecycle::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_plugin_android_lifecycle/.transforms/d982146746f6a08ef23bf8f54c771d5a/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_plugin_android_lifecycle/.transforms/d982146746f6a08ef23bf8f54c771d5a/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:flutter_plugin_android_lifecycle::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/flutter_plugin_android_lifecycle/.transforms/65375e010b1f9ba8a34dcbaf99ebc155/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/flutter_plugin_android_lifecycle/.transforms/65375e010b1f9ba8a34dcbaf99ebc155/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.flutter_plugin_android_lifecycle:flutter_plugin_android_lifecycle:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_plugin_android_lifecycle/.transforms/d982146746f6a08ef23bf8f54c771d5a/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/flutter_plugin_android_lifecycle/.transforms/65375e010b1f9ba8a34dcbaf99ebc155/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -69,10 +69,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:sqflite::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/.transforms/3ad1d82ffdc067de8b63042b2e70f856/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/.transforms/3ad1d82ffdc067de8b63042b2e70f856/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:sqflite::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/sqflite/.transforms/d58037e035abdedd662bd85ca1245821/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/sqflite/.transforms/d58037e035abdedd662bd85ca1245821/transformed/out/jars/libs/R.jar"
       resolved="com.tekartik.sqflite:sqflite:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/.transforms/3ad1d82ffdc067de8b63042b2e70f856/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/sqflite/.transforms/d58037e035abdedd662bd85ca1245821/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -82,10 +82,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:flutter_local_notifications::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_local_notifications/.transforms/bd5fc5a09847b7219cabd35781ccb000/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_local_notifications/.transforms/bd5fc5a09847b7219cabd35781ccb000/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:flutter_local_notifications::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/flutter_local_notifications/.transforms/bca58273d37a22ce12be8a91979c1a94/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/flutter_local_notifications/.transforms/bca58273d37a22ce12be8a91979c1a94/transformed/out/jars/libs/R.jar"
       resolved="com.dexterous.flutterlocalnotifications:flutter_local_notifications:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_local_notifications/.transforms/bd5fc5a09847b7219cabd35781ccb000/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/flutter_local_notifications/.transforms/bca58273d37a22ce12be8a91979c1a94/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -95,10 +95,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:path_provider_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/path_provider_android/.transforms/2f5df432ce9f64069cdf4e70b20993ad/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/path_provider_android/.transforms/2f5df432ce9f64069cdf4e70b20993ad/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:path_provider_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/path_provider_android/.transforms/bb237bb94381053d8ae6d8374646f476/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/path_provider_android/.transforms/bb237bb94381053d8ae6d8374646f476/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/path_provider_android/.transforms/2f5df432ce9f64069cdf4e70b20993ad/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/path_provider_android/.transforms/bb237bb94381053d8ae6d8374646f476/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -108,10 +108,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:google_maps_flutter_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/google_maps_flutter_android/.transforms/bf675c459c651a483f4bd7c1a34c42cc/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/google_maps_flutter_android/.transforms/bf675c459c651a483f4bd7c1a34c42cc/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:google_maps_flutter_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/google_maps_flutter_android/.transforms/401fd43b7ccd9db9858142b4df363ce2/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/google_maps_flutter_android/.transforms/401fd43b7ccd9db9858142b4df363ce2/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.googlemaps:google_maps_flutter_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/google_maps_flutter_android/.transforms/bf675c459c651a483f4bd7c1a34c42cc/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/google_maps_flutter_android/.transforms/401fd43b7ccd9db9858142b4df363ce2/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -121,10 +121,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:google_sign_in_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/.transforms/eb4315ac03612740e716d440e21331dd/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/.transforms/eb4315ac03612740e716d440e21331dd/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:google_sign_in_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/.transforms/d6f5252450c2d058e3208118747b9333/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/.transforms/d6f5252450c2d058e3208118747b9333/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.googlesignin:google_sign_in_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/.transforms/eb4315ac03612740e716d440e21331dd/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/.transforms/d6f5252450c2d058e3208118747b9333/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -134,10 +134,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:shared_preferences_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/shared_preferences_android/.transforms/3002a916378f8c963af4e8ca8c8e2cde/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/shared_preferences_android/.transforms/3002a916378f8c963af4e8ca8c8e2cde/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:shared_preferences_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/shared_preferences_android/.transforms/de78afd4b2b5811c0bb94b1b39fe0c8e/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/shared_preferences_android/.transforms/de78afd4b2b5811c0bb94b1b39fe0c8e/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/shared_preferences_android/.transforms/3002a916378f8c963af4e8ca8c8e2cde/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/shared_preferences_android/.transforms/de78afd4b2b5811c0bb94b1b39fe0c8e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -147,10 +147,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:geocoding_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/geocoding_android/.transforms/3973c2535d4c1e22a776b98285b4c61e/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/geocoding_android/.transforms/3973c2535d4c1e22a776b98285b4c61e/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:geocoding_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/geocoding_android/.transforms/22fa10e07b061c05e55db23d4dffdb7e/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/geocoding_android/.transforms/22fa10e07b061c05e55db23d4dffdb7e/transformed/out/jars/libs/R.jar"
       resolved="com.baseflow.geocoding:geocoding_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/geocoding_android/.transforms/3973c2535d4c1e22a776b98285b4c61e/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/geocoding_android/.transforms/22fa10e07b061c05e55db23d4dffdb7e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -160,10 +160,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:image_picker_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/.transforms/0b104d0c7c53a4b660466071050c2524/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/.transforms/0b104d0c7c53a4b660466071050c2524/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:image_picker_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/image_picker_android/.transforms/2b45b3e36dac595ccb1513809daee69b/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/image_picker_android/.transforms/2b45b3e36dac595ccb1513809daee69b/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.imagepicker:image_picker_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/.transforms/0b104d0c7c53a4b660466071050c2524/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/image_picker_android/.transforms/2b45b3e36dac595ccb1513809daee69b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -173,10 +173,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/rahulmachhi/projects/logistic-mobile-app/android@@:stripe_android::release"
-      jars="/Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/.transforms/f8a91f9c4382441dcb941cd3b246ad45/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/.transforms/f8a91f9c4382441dcb941cd3b246ad45/transformed/out/jars/libs/R.jar"
+      name="/Users/rahulmachhi/projects/clickandsend/android@@:stripe_android::release"
+      jars="/Users/rahulmachhi/projects/clickandsend/build/stripe_android/.transforms/efba7546046fca4a52a4eedb056e0cb3/transformed/out/jars/classes.jar:/Users/rahulmachhi/projects/clickandsend/build/stripe_android/.transforms/efba7546046fca4a52a4eedb056e0cb3/transformed/out/jars/libs/R.jar"
       resolved="com.flutter.stripe:stripe_android:unspecified"
-      folder="/Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/.transforms/f8a91f9c4382441dcb941cd3b246ad45/transformed/out"
+      folder="/Users/rahulmachhi/projects/clickandsend/build/stripe_android/.transforms/efba7546046fca4a52a4eedb056e0cb3/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

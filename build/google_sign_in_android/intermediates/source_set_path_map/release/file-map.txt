@@ -14,9 +14,9 @@ io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-exper
 io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-13 /Users/rahulmachhi/.gradle/caches/transforms-3/f9d758ccbc720f0ffc209ef13820c5cb/transformed/jetified-play-services-base-18.0.1/res
 io.flutter.plugins.googlesignin.google_sign_in_android-main-14 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.23/android/src/main/res
 io.flutter.plugins.googlesignin.google_sign_in_android-release-15 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.23/android/src/release/res
-io.flutter.plugins.googlesignin.google_sign_in_android-pngs-16 /Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/generated/res/pngs/release
-io.flutter.plugins.googlesignin.google_sign_in_android-resValues-17 /Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/generated/res/resValues/release
-io.flutter.plugins.googlesignin.google_sign_in_android-rs-18 /Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/generated/res/rs/release
-io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-19 /Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
-io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-20 /Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-21 /Users/rahulmachhi/projects/logistic-mobile-app/build/google_sign_in_android/intermediates/merged_res/release
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-16 /Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/generated/res/pngs/release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-17 /Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/generated/res/resValues/release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-18 /Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/generated/res/rs/release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-19 /Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-20 /Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-21 /Users/rahulmachhi/projects/clickandsend/build/google_sign_in_android/intermediates/merged_res/release

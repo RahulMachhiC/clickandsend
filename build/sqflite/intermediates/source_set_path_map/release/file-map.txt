@@ -4,9 +4,9 @@ com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-2 /Users/rahulmachhi
 com.tekartik.sqflite-core-1.6.0-3 /Users/rahulmachhi/.gradle/caches/transforms-3/fe389b3d9224cb2ebd2ae53a0d79d2a1/transformed/core-1.6.0/res
 com.tekartik.sqflite-main-4 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/sqflite-2.3.3/android/src/main/res
 com.tekartik.sqflite-release-5 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/sqflite-2.3.3/android/src/release/res
-com.tekartik.sqflite-pngs-6 /Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/generated/res/pngs/release
-com.tekartik.sqflite-resValues-7 /Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/generated/res/resValues/release
-com.tekartik.sqflite-rs-8 /Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/generated/res/rs/release
-com.tekartik.sqflite-mergeReleaseResources-9 /Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.tekartik.sqflite-mergeReleaseResources-10 /Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.tekartik.sqflite-merged_res-11 /Users/rahulmachhi/projects/logistic-mobile-app/build/sqflite/intermediates/merged_res/release
+com.tekartik.sqflite-pngs-6 /Users/rahulmachhi/projects/clickandsend/build/sqflite/generated/res/pngs/release
+com.tekartik.sqflite-resValues-7 /Users/rahulmachhi/projects/clickandsend/build/sqflite/generated/res/resValues/release
+com.tekartik.sqflite-rs-8 /Users/rahulmachhi/projects/clickandsend/build/sqflite/generated/res/rs/release
+com.tekartik.sqflite-mergeReleaseResources-9 /Users/rahulmachhi/projects/clickandsend/build/sqflite/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 /Users/rahulmachhi/projects/clickandsend/build/sqflite/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tekartik.sqflite-merged_res-11 /Users/rahulmachhi/projects/clickandsend/build/sqflite/intermediates/merged_res/release

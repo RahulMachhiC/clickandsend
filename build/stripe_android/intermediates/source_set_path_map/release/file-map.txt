@@ -84,9 +84,9 @@ com.flutter.stripe.stripe_android-jetified-payments-ui-core-20.34.4-82 /Users/ra
 com.flutter.stripe.stripe_android-jetified-annotation-experimental-1.3.0-83 /Users/rahulmachhi/.gradle/caches/transforms-3/fff50b1a2dcf27e9bb6f79bec884e6bc/transformed/jetified-annotation-experimental-1.3.0/res
 com.flutter.stripe.stripe_android-main-84 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/stripe_android-9.6.0+2/android/src/main/res
 com.flutter.stripe.stripe_android-release-85 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/stripe_android-9.6.0+2/android/src/release/res
-com.flutter.stripe.stripe_android-pngs-86 /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/generated/res/pngs/release
-com.flutter.stripe.stripe_android-resValues-87 /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/generated/res/resValues/release
-com.flutter.stripe.stripe_android-rs-88 /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/generated/res/rs/release
-com.flutter.stripe.stripe_android-mergeReleaseResources-89 /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.flutter.stripe.stripe_android-mergeReleaseResources-90 /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.flutter.stripe.stripe_android-merged_res-91 /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/intermediates/merged_res/release
+com.flutter.stripe.stripe_android-pngs-86 /Users/rahulmachhi/projects/clickandsend/build/stripe_android/generated/res/pngs/release
+com.flutter.stripe.stripe_android-resValues-87 /Users/rahulmachhi/projects/clickandsend/build/stripe_android/generated/res/resValues/release
+com.flutter.stripe.stripe_android-rs-88 /Users/rahulmachhi/projects/clickandsend/build/stripe_android/generated/res/rs/release
+com.flutter.stripe.stripe_android-mergeReleaseResources-89 /Users/rahulmachhi/projects/clickandsend/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.flutter.stripe.stripe_android-mergeReleaseResources-90 /Users/rahulmachhi/projects/clickandsend/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.flutter.stripe.stripe_android-merged_res-91 /Users/rahulmachhi/projects/clickandsend/build/stripe_android/intermediates/merged_res/release

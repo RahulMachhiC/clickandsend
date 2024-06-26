@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0
+# The proguard configuration file for the following section is /Users/rahulmachhi/projects/clickandsend/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,7 +116,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0
+# End of content from /Users/rahulmachhi/projects/clickandsend/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0
 # The proguard configuration file for the following section is /Users/rahulmachhi/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -127,14 +127,14 @@
 -dontwarn android.**
 
 # End of content from /Users/rahulmachhi/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
-# The proguard configuration file for the following section is /Users/rahulmachhi/projects/logistic-mobile-app/android/app/proguard-rules.pro
+# The proguard configuration file for the following section is /Users/rahulmachhi/projects/clickandsend/android/app/proguard-rules.pro
 -dontwarn com.stripe.android.pushProvisioning.PushProvisioningActivity$g
 -dontwarn com.stripe.android.pushProvisioning.PushProvisioningActivityStarter$Args
 -dontwarn com.stripe.android.pushProvisioning.PushProvisioningActivityStarter$Error
 -dontwarn com.stripe.android.pushProvisioning.PushProvisioningActivityStarter
 -dontwarn com.stripe.android.pushProvisioning.PushProvisioningEphemeralKeyProvider
-# End of content from /Users/rahulmachhi/projects/logistic-mobile-app/android/app/proguard-rules.pro
-# The proguard configuration file for the following section is /Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /Users/rahulmachhi/projects/clickandsend/android/app/proguard-rules.pro
+# The proguard configuration file for the following section is /Users/rahulmachhi/projects/clickandsend/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
@@ -357,8 +357,8 @@
 -keep class com.stripe.android.view.StripeEditText { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from /Users/rahulmachhi/projects/logistic-mobile-app/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
-# The proguard configuration file for the following section is /Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_plugin_android_lifecycle/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
+# End of content from /Users/rahulmachhi/projects/clickandsend/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# The proguard configuration file for the following section is /Users/rahulmachhi/projects/clickandsend/build/flutter_plugin_android_lifecycle/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
 # The point of this package is to specify that a dependent plugin intends to
 # use the AndroidX lifecycle classes. Make sure no R8 heuristics shrink classes
 # brought in by the embedding's pom.
@@ -369,8 +369,8 @@
 # https://issuetracker.google.com/issues/142778206.
 -keep class androidx.lifecycle.DefaultLifecycleObserver
 
-# End of content from /Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_plugin_android_lifecycle/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
-# The proguard configuration file for the following section is /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
+# End of content from /Users/rahulmachhi/projects/clickandsend/build/flutter_plugin_android_lifecycle/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
+# The proguard configuration file for the following section is /Users/rahulmachhi/projects/clickandsend/build/stripe_android/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
 -keepclassmembers class com.google.android.gms.tapandpay.** {
   public *;
 }
@@ -378,7 +378,7 @@
 -keepclassmembers class com.stripe.android.pushProvisioning.** {
   public *;
 }
-# End of content from /Users/rahulmachhi/projects/logistic-mobile-app/build/stripe_android/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
+# End of content from /Users/rahulmachhi/projects/clickandsend/build/stripe_android/intermediates/consumer_proguard_dir/release/lib0/proguard.txt
 # The proguard configuration file for the following section is /Users/rahulmachhi/.gradle/caches/transforms-3/fdacc5f241d8d3a7684d6125bd28ac9d/transformed/jetified-payments-ui-core-20.34.4/proguard.txt
 # Google Places SDK is compile only in the build.gradle.
 -dontwarn com.google.android.libraries.places.**

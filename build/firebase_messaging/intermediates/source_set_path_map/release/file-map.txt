@@ -9,10 +9,10 @@ io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-play-services-
 io.flutter.plugins.firebase.messaging.firebase_messaging-core-1.6.0-8 /Users/rahulmachhi/.gradle/caches/transforms-3/fe389b3d9224cb2ebd2ae53a0d79d2a1/transformed/core-1.6.0/res
 io.flutter.plugins.firebase.messaging.firebase_messaging-main-9 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/firebase_messaging-14.8.2/android/src/main/res
 io.flutter.plugins.firebase.messaging.firebase_messaging-release-10 /Users/rahulmachhi/.pub-cache/hosted/pub.dev/firebase_messaging-14.8.2/android/src/release/res
-io.flutter.plugins.firebase.messaging.firebase_messaging-packaged_res-11 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/packaged_res/release
-io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-12 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/generated/res/pngs/release
-io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-13 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/generated/res/resValues/release
-io.flutter.plugins.firebase.messaging.firebase_messaging-rs-14 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/generated/res/rs/release
-io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-15 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/merged.dir
-io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-16 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-io.flutter.plugins.firebase.messaging.firebase_messaging-merged_res-17 /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_res/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-packaged_res-11 /Users/rahulmachhi/projects/clickandsend/build/firebase_core/intermediates/packaged_res/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-12 /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/generated/res/pngs/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-13 /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/generated/res/resValues/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-rs-14 /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/generated/res/rs/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-15 /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-16 /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-merged_res-17 /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_res/release

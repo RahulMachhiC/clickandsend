@@ -57,6 +57,25 @@
                     }
                 },
                 {
+                    "source": "/Users/rahulmachhi/projects/clickandsend/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,981"
+                    },
+                    "to": {
+                        "startLines": "68,72",
+                        "startColumns": "4,4",
+                        "startOffsets": "4725,4906",
+                        "endLines": "71,74",
+                        "endColumns": "12,12",
+                        "endOffsets": "4901,5070"
+                    }
+                },
+                {
                     "source": "/Users/rahulmachhi/.gradle/caches/transforms-3/86ed0247a8c3400f5a42c8bf22b03719/transformed/jetified-link-20.34.4/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2",
@@ -88,25 +107,6 @@
                         "startOffsets": "5075,5145,5229,5313,5409,5511,5613,8468",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "5140,5224,5308,5404,5506,5608,5702,8552"
-                    }
-                },
-                {
-                    "source": "/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/res/values-night/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "172,817",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "475,981"
-                    },
-                    "to": {
-                        "startLines": "68,72",
-                        "startColumns": "4,4",
-                        "startOffsets": "4725,4906",
-                        "endLines": "71,74",
-                        "endColumns": "12,12",
-                        "endOffsets": "4901,5070"
                     }
                 },
                 {

@@ -6,31 +6,31 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml
+8-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml
+9-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:2:1-63
-11-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:2:18-60
+11-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:2:1-63
+11-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:2:18-60
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:2:66-140
-12-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:2:83-137
+12-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:2:66-140
+12-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:2:83-137
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:3:1-77
-13-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:3:18-74
+13-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:3:1-77
+13-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:3:18-74
 14    <uses-permission android:name="android.permission.WAKE_LOCK" />
-14-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-68
-14-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-65
+14-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-68
+14-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-65
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-15-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
-15-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-76
+15-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+15-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-76
 16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-16-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-77
-16-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-74
+16-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-77
+16-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-74
 17    <uses-permission android:name="android.permission.VIBRATE" /> <!-- See https://developer.android.com/training/package-visibility/declaring for more details. -->
-17-->[:flutter_local_notifications] /Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-66
-17-->[:flutter_local_notifications] /Users/rahulmachhi/projects/logistic-mobile-app/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-63
+17-->[:flutter_local_notifications] /Users/rahulmachhi/projects/clickandsend/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-66
+17-->[:flutter_local_notifications] /Users/rahulmachhi/projects/clickandsend/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-63
 18    <queries>
 18-->[com.stripe:payments-core:20.34.4] /Users/rahulmachhi/.gradle/caches/transforms-3/6b0f9bf80a2593c79bf6d0b9d7b45f77/transformed/jetified-payments-core-20.34.4/AndroidManifest.xml:8:5-12:15
 19
@@ -80,29 +80,29 @@
 42
 43    <application
 44        android:name="android.app.Application"
-44-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:6:9-42
+44-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:6:9-42
 45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 45-->[androidx.core:core:1.10.1] /Users/rahulmachhi/.gradle/caches/transforms-3/cc4421692380fb3b0f8dc8efa38443ba/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 46        android:icon="@mipmap/launcher_icon"
-46-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:7:9-45
+46-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:7:9-45
 47        android:label="Click And Send" >
-47-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:5:9-39
+47-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:5:9-39
 48        <activity
-48-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:8:9-28:20
+48-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:8:9-28:20
 49            android:name="com.example.click_send.MainActivity"
-49-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:9:13-41
+49-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:9:13-41
 50            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-50-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:13:13-163
+50-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:13:13-163
 51            android:exported="true"
-51-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:10:13-36
+51-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:10:13-36
 52            android:hardwareAccelerated="true"
-52-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:14:13-47
+52-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:14:13-47
 53            android:launchMode="singleTop"
-53-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:11:13-43
+53-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:11:13-43
 54            android:theme="@style/LaunchTheme"
-54-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:12:13-47
+54-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:12:13-47
 55            android:windowSoftInputMode="adjustResize" >
-55-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:15:13-55
+55-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:15:13-55
 56
 57            <!--
 58                 Specifies an Android theme to apply to this Activity as soon as
@@ -111,21 +111,21 @@
 61                 to determine the Window background behind the Flutter UI.
 62            -->
 63            <meta-data
-63-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:20:13-23:17
+63-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:20:13-23:17
 64                android:name="io.flutter.embedding.android.NormalTheme"
-64-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:21:15-70
+64-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:21:15-70
 65                android:resource="@style/NormalTheme" />
-65-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:22:15-52
+65-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:22:15-52
 66
 67            <intent-filter>
-67-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:24:13-27:29
+67-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:24:13-27:29
 68                <action android:name="android.intent.action.MAIN" />
-68-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:25:17-68
-68-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:25:25-66
+68-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:25:17-68
+68-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:25:25-66
 69
 70                <category android:name="android.intent.category.LAUNCHER" />
-70-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:26:17-76
-70-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:26:27-74
+70-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:26:17-76
+70-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:26:27-74
 71            </intent-filter>
 72        </activity>
 73        <!--
@@ -133,44 +133,44 @@
 75             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 76        -->
 77        <meta-data
-77-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:31:9-33:33
+77-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:31:9-33:33
 78            android:name="flutterEmbedding"
-78-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:32:13-44
+78-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:32:13-44
 79            android:value="2" />
-79-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:33:13-30
+79-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:33:13-30
 80        <meta-data
-80-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:33:36-34:73
+80-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:33:36-34:73
 81            android:name="com.google.android.geo.API_KEY"
-81-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:33:47-92
+81-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:33:47-92
 82            android:value="AIzaSyAOclkkEGESMv0-cbDsX4w_QQ_pTTms8p4" />
-82-->/Users/rahulmachhi/projects/logistic-mobile-app/android/app/src/main/AndroidManifest.xml:34:16-71
+82-->/Users/rahulmachhi/projects/clickandsend/android/app/src/main/AndroidManifest.xml:34:16-71
 83
 84        <service
-84-->[:firebase_auth] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+84-->[:firebase_auth] /Users/rahulmachhi/projects/clickandsend/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
 85            android:name="com.google.firebase.components.ComponentDiscoveryService"
-85-->[:firebase_auth] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
+85-->[:firebase_auth] /Users/rahulmachhi/projects/clickandsend/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
 86            android:directBootAware="true"
 86-->[com.google.firebase:firebase-common:20.4.3] /Users/rahulmachhi/.gradle/caches/transforms-3/393a7027f3b36a4c66f38e33db318749/transformed/jetified-firebase-common-20.4.3/AndroidManifest.xml:32:13-43
 87            android:exported="false" >
 87-->[com.google.firebase:firebase-auth:22.3.1] /Users/rahulmachhi/.gradle/caches/transforms-3/16e837130eb3e301bf39e42f23e37060/transformed/jetified-firebase-auth-22.3.1/AndroidManifest.xml:68:13-37
 88            <meta-data
-88-->[:firebase_auth] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+88-->[:firebase_auth] /Users/rahulmachhi/projects/clickandsend/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 89                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-89-->[:firebase_auth] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+89-->[:firebase_auth] /Users/rahulmachhi/projects/clickandsend/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[:firebase_auth] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+90-->[:firebase_auth] /Users/rahulmachhi/projects/clickandsend/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 91            <meta-data
-91-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-40:85
+91-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-40:85
 92                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-92-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-128
+92-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-128
 93                android:value="com.google.firebase.components.ComponentRegistrar" />
-93-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:40:17-82
+93-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:40:17-82
 94            <meta-data
-94-->[:firebase_core] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+94-->[:firebase_core] /Users/rahulmachhi/projects/clickandsend/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
 95                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-95-->[:firebase_core] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+95-->[:firebase_core] /Users/rahulmachhi/projects/clickandsend/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
 96                android:value="com.google.firebase.components.ComponentRegistrar" />
-96-->[:firebase_core] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+96-->[:firebase_core] /Users/rahulmachhi/projects/clickandsend/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
 97            <meta-data
 97-->[com.google.firebase:firebase-auth:22.3.1] /Users/rahulmachhi/.gradle/caches/transforms-3/16e837130eb3e301bf39e42f23e37060/transformed/jetified-firebase-auth-22.3.1/AndroidManifest.xml:69:13-71:85
 98                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -227,103 +227,103 @@
 123-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/rahulmachhi/.gradle/caches/transforms-3/c1976ad44f47295ed8899f79b716daa6/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
 124        </service>
 125        <service
-125-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-19:72
+125-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-19:72
 126            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-126-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-107
+126-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-107
 127            android:exported="false"
-127-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
+127-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
 128            android:permission="android.permission.BIND_JOB_SERVICE" />
-128-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-69
+128-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-69
 129        <service
-129-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-26:19
+129-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-26:19
 130            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-130-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-97
+130-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-97
 131            android:exported="false" >
-131-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-37
+131-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-37
 132            <intent-filter>
-132-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
+132-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
 133                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-133-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
-133-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
+133-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
+133-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
 134            </intent-filter>
 135        </service>
 136
 137        <receiver
-137-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-35:20
+137-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-35:20
 138            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-138-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-98
+138-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-98
 139            android:exported="true"
-139-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-36
+139-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-36
 140            android:permission="com.google.android.c2dm.permission.SEND" >
-140-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-73
+140-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-73
 141            <intent-filter>
-141-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
+141-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
 142                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-142-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
-142-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
+142-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
+142-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
 143            </intent-filter>
 144        </receiver>
 145
 146        <provider
-146-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:43:9-47:38
+146-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:43:9-47:38
 147            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-147-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:44:13-102
+147-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:44:13-102
 148            android:authorities="com.example.click_send.flutterfirebasemessaginginitprovider"
-148-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:45:13-88
+148-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:45:13-88
 149            android:exported="false"
-149-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-37
+149-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-37
 150            android:initOrder="99" />
-150-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-35
+150-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-35
 151
 152        <service
-152-->[:geolocator_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:56
+152-->[:geolocator_android] /Users/rahulmachhi/projects/clickandsend/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:56
 153            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-153-->[:geolocator_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-77
+153-->[:geolocator_android] /Users/rahulmachhi/projects/clickandsend/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-77
 154            android:enabled="true"
-154-->[:geolocator_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-35
+154-->[:geolocator_android] /Users/rahulmachhi/projects/clickandsend/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-35
 155            android:exported="false"
-155-->[:geolocator_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+155-->[:geolocator_android] /Users/rahulmachhi/projects/clickandsend/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
 156            android:foregroundServiceType="location" />
-156-->[:geolocator_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-53
+156-->[:geolocator_android] /Users/rahulmachhi/projects/clickandsend/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-53
 157
 158        <provider
-158-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-19:20
+158-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-19:20
 159            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-159-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-82
+159-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-82
 160            android:authorities="com.example.click_send.flutter.image_provider"
-160-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-74
+160-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-74
 161            android:exported="false"
-161-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-37
+161-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-37
 162            android:grantUriPermissions="true" >
-162-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-47
+162-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-47
 163            <meta-data
-163-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-18:75
+163-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-18:75
 164                android:name="android.support.FILE_PROVIDER_PATHS"
-164-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:17:17-67
+164-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:17:17-67
 165                android:resource="@xml/flutter_image_picker_file_paths" />
-165-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:18:17-72
+165-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:18:17-72
 166        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
 167        <service
-167-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-33:19
+167-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-33:19
 168            android:name="com.google.android.gms.metadata.ModuleDependencies"
-168-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-78
+168-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-78
 169            android:enabled="false"
-169-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-36
+169-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-36
 170            android:exported="false" >
-170-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-37
+170-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-37
 171            <intent-filter>
-171-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-28:29
+171-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-28:29
 172                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-172-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:27:17-94
-172-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:27:25-91
+172-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:27:17-94
+172-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:27:25-91
 173            </intent-filter>
 174
 175            <meta-data
-175-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-32:36
+175-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-32:36
 176                android:name="photopicker_activity:0:required"
-176-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:31:17-63
+176-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:31:17-63
 177                android:value="" />
-177-->[:image_picker_android] /Users/rahulmachhi/projects/logistic-mobile-app/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:32:17-33
+177-->[:image_picker_android] /Users/rahulmachhi/projects/clickandsend/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:32:17-33
 178        </service>
 179
 180        <activity
@@ -685,10 +685,10 @@
 366            android:permission="com.google.android.c2dm.permission.SEND" >
 366-->[com.google.firebase:firebase-messaging:23.4.1] /Users/rahulmachhi/.gradle/caches/transforms-3/6e1fc77073688b2f04ff07d22b9770d7/transformed/jetified-firebase-messaging-23.4.1/AndroidManifest.xml:32:13-73
 367            <intent-filter>
-367-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
+367-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
 368                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-368-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
-368-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
+368-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
+368-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
 369            </intent-filter>
 370
 371            <meta-data
@@ -711,10 +711,10 @@
 382            android:exported="false" >
 382-->[com.google.firebase:firebase-messaging:23.4.1] /Users/rahulmachhi/.gradle/caches/transforms-3/6e1fc77073688b2f04ff07d22b9770d7/transformed/jetified-firebase-messaging-23.4.1/AndroidManifest.xml:49:13-37
 383            <intent-filter android:priority="-500" >
-383-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
+383-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
 384                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-384-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
-384-->[:firebase_messaging] /Users/rahulmachhi/projects/logistic-mobile-app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
+384-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
+384-->[:firebase_messaging] /Users/rahulmachhi/projects/clickandsend/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
 385            </intent-filter>
 386        </service>
 387

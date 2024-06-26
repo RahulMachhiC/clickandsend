@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/Users/rahulmachhi/projects/logistic-mobile-app/android/app"
+    dir="/Users/rahulmachhi/projects/clickandsend/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.3.0"
-    buildFolder="/Users/rahulmachhi/projects/logistic-mobile-app/build/app"
+    buildFolder="/Users/rahulmachhi/projects/clickandsend/build/app"
     bootClassPath="/Users/rahulmachhi/Library/Android/sdk/platforms/android-34/android.jar:/Users/rahulmachhi/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-34">
